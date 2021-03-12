@@ -1,4 +1,4 @@
-"#Projeto Revisao"
+"#Projeto Revisao do Curso de .NET"
 
 Nesse projeto de revisão fizemos um programa de uma lista 
 
